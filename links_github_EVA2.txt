@@ -1,0 +1,14 @@
+Practicas Evaluacion 2
+Mario Andres Tejada Morales
+17550848
+https://github.com/axeleatorss3/EVA2_1_CICLO_VIDA.git
+https://github.com/axeleatorss3/2_2_Intentos.git
+https://github.com/axeleatorss3/EVA2_3_SMS.git
+https://github.com/axeleatorss3/EVA2_4_INTENTOS_EXPLICITOS.git
+https://github.com/axeleatorss3/EVA2_ACTION_VIEW_EXAMPLE_5.git
+https://github.com/axeleatorss3/EVA2_6_WEB_PAGE.git
+https://github.com/axeleatorss3/EVA2_7_BUNDLES_EXTRAS.git
+https://github.com/axeleatorss3/EVA2_8_ACTIVITY_RESULT.git
+https://github.com/axeleatorss3/EVA2_9_ALERT_DIALOG.git
+https://github.com/axeleatorss3/EVA2_10_EVA2_10_TOASTVIEW1.git
+https://github.com/axeleatorss3/EVA2_11_EVA2_10_TOASTVIEW2.git
